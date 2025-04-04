@@ -2,4 +2,4 @@
 “A fitness tracker app built with Flutter that logs workouts, sets goals, and tracks progress
 
 Portfolio:
-https://www.notion.so/Charles-HCI-Portfolio-1cbb597083178038a0abe06abf2cd68d?showMoveTo=true&saveParent=true
+https://www.notion.so/Charles-Portfolio-1cbbcc694136800480f4db405291df8b
