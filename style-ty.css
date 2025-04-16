@@ -1,0 +1,47 @@
+
+body {
+  background-image: url('images/header-bg.png'); 
+  background-size: cover;
+  background-position: center;
+  font-family: Arial, sans-serif;
+  color: #fff;
+  text-align: center;
+  margin: 0;
+  height: 100vh; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Heading styling */
+h1 {
+  color: #fff; 
+  font-size: 6rem;
+  margin-bottom: 30px; 
+}
+
+/* Paragraph styling */
+p {
+  color: #fff; 
+  font-size: 2rem; 
+  margin-bottom: 30px;
+}
+
+/* Link styling as a rectangular button */
+a {
+  color: #fff; 
+  background-color: #ff0000; 
+  text-decoration: none;
+  font-size: 2rem; 
+  padding: 15px 30px; 
+  border-radius: 5px; 
+  display: inline-block; 
+  margin-top: 20px;
+  transition: background-color 0.3s, transform 0.3s; 
+}
+
+/* Link hover effect */
+a:hover {
+  background-color: #ffcc00; 
+  transform: scale(1.1); }
